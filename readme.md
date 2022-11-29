@@ -18,3 +18,12 @@ expected output ===> [1, 1, 2, 3, 5, 8, 13]
 Choose any one language for the submission.
 How to Submit?
 Open online compiler for your respective language (programiz etc) and modify the given code to match the expected output. Upon completion and getting the right expected output, save the entire code file on the desktop with PGS_"your name". Leave the compiler window open on your respective computers for invigilator to test your code and output.
+
+
+For Javascript use -> [Js Compiler](https://www.programiz.com/javascript/online-compiler/).
+For Python use -> [Python Compiler](https://www.programiz.com/python-programming/online-compiler/).
+For Cpp use -> [Cpp Compiler](https://www.programiz.com/cpp-programming/online-compiler/).
+For Java use -> [Java Compiler](https://www.programiz.com/java-programming/online-compiler/).
+
+
+#### Also please mention your name and roll number at top of program in a comment. 
