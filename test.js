@@ -2,11 +2,13 @@ const TreeNode = (value, left, right) => {
   this.value = value;
   this.right = right;
   this.left = left;
+  return this;
 };
 
 const ListNode = (value, next) => {
   this.value = value;
   this.next = next;
+  return this;
 };
 
 const root = TreeNode(
@@ -29,7 +31,7 @@ const value = [];
 const result = work(root);
 const to_array = (node) => {
   if (node == null) return;
-  value.append(node.value);
+  value.push(node.value);
   to_array(node.next);
 };
 to_array(result);
